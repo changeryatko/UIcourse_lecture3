@@ -6,3 +6,4 @@ Lecture files:
 
 Homework files:
  - Introduction-markup-with-HTML.html
+ - read http://diveintohtml5.info/ article
